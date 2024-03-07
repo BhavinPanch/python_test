@@ -1,5 +1,6 @@
 # python_test
 
+## Tasks
 Step 1: Shopping cart
 
 • You are building a checkout system for a shop which only sells apples and oranges
@@ -21,3 +22,7 @@ Step 2: Simple offers
 - 3 for the price of 2 on oranges
 
 • Update your checkout functions acBuy one
+
+## How to run
+Run following command after activating virtual environment
+python test_shopping_cart.py
