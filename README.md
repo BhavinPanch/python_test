@@ -24,5 +24,5 @@ Step 2: Simple offers
 • Update your checkout functions acBuy one
 
 ## How to run
-Run following command after activating virtual environment
+Run following command in virtual environment
 **python test_shopping_cart.py**
