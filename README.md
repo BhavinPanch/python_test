@@ -25,4 +25,4 @@ Step 2: Simple offers
 
 ## How to run
 Run following command after activating virtual environment
-python test_shopping_cart.py
+**python test_shopping_cart.py**
